@@ -1,0 +1,18 @@
+{
+	"name": "python",
+	"version": "3.13.5",
+	"url": "https://www.python.org/ftp/python/3.13.5/python-3.13.5-embed-amd64.zip",
+	"sum": "md5:370a345dbea8bbc1830a2385f24632d2",
+	"homepage": "https://python.org",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {
+		"python": "python.exe",
+		"python3": "python.exe"
+	},
+	"type": "zip",
+	"summary": "programming language",
+	"scripts": {
+		"preinstall": "pwsh something",
+		"postinstall": "pwsh something"
+	}
+}

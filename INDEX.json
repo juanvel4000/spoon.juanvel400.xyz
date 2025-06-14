@@ -1,0 +1,8 @@
+{
+	"name": "main",
+	"maintainer": "juanvel400",
+	"description": "The main ice cream for spoon",
+	"packages": {
+		"python": ["3.13.5"]
+	}
+}
