@@ -1,0 +1,17 @@
+{
+	"name": "cmake",
+	"version": "4.0.3",
+	"url": "https://github.com/Kitware/CMake/releases/download/v4.0.3/cmake-4.0.3-windows-x86_64.zip",
+	"sum": "sha256:b59a31dfbfa376a4aaea9ff560ff2b29f78ee5f9fb15447fc71ae7bf9fea9379",
+	"homepage": "https://cmake.org",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {
+		"cmake-gui": "cmake-4.0.3-windows-x86_64/bin/cmake-gui.exe",
+		"cmake": "cmake-4.0.3-windows-x86_64/bin/cmake.exe",
+		"cmcldeps": "cmake-4.0.3-windows-x86_64/bin/cmcldeps.exe",
+		"cpack": "cmake-4.0.3-windows-x86_64/bin/cpack.exe",
+		"ctest": "cmake-4.0.3-windows-x86_64/bin/ctest.exe"
+	},
+	"type": "zip",
+	"summary": "a build system"
+}

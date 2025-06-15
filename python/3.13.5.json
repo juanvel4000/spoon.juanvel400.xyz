@@ -10,9 +10,5 @@
 		"python3": "python.exe"
 	},
 	"type": "zip",
-	"summary": "programming language",
-	"scripts": {
-		"preinstall": "pwsh something",
-		"postinstall": "pwsh something"
-	}
+	"summary": "a simple systems programming language"
 }
