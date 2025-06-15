@@ -1,0 +1,11 @@
+{
+	"name": "curl",
+	"version": "8.14.1",
+	"url": "https://curl.se/windows/dl-8.14.1_1/curl-8.14.1_1-win64-mingw.zip",
+	"summary": "command-line tool to transfer data from urls",
+	"maintainer": {"name": "juanvel400"},
+	"type": "zip",
+	"sum": "sha256:eef8ed31fccd4ed22da9c5469c31cf1355096c41f9246f48ca1aa8086c6cb5d6",
+	"homepage": "https://curl.se",
+	"endpoints": {"curl": "curl-8.14.1_1-win64-mingw/bin/curl.exe"}
+}
