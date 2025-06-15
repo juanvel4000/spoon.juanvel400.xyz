@@ -1,0 +1,15 @@
+{
+	"name": "less",
+	"version": "678.0",
+	"url": "https://github.com/jftuga/less-Windows/releases/download/less-v678/less-x64.zip",
+	"sum": "sha256:0aaec25fcb1033f747d9901e0da8e13eb077c8f5206b5f5882c0bdbe53f77f27",
+	"homepage": "https://github.com/jftuga/less-Windows",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {
+		"less": "less.exe",
+		"lesskey": "lesskey.exe"
+	},
+	"type": "zip",
+	"summary": "GNU less - a text pager"
+}
+
