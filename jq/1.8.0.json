@@ -1,0 +1,11 @@
+{
+	"name": "jq",
+	"version": "1.8.0",
+	"url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-windows-amd64.exe",
+	"type": "exe-static",
+	"sum": "sha256:b45fcbb27dcb9e9848ac39889a8bf86457b8d9d31e7c56387c6eab80008fd1f4",
+	"homepage": "https://jqlang.org",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {"jq": "jq.exe"},
+	"summary": "command-line json processor"
+}
