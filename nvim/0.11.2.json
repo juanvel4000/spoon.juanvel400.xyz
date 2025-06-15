@@ -1,0 +1,11 @@
+{
+	"name": "neovim",
+	"version": "0.11.2",
+	"url": "https://github.com/neovim/neovim/releases/download/v0.11.2/nvim-win64.zip",
+	"sum": "sha256:dfa66afc95422b7c4a0f8ae330f30a00dbb8e9848993d7bfde8e2e85be30de13",
+	"homepage": "https://neovim.io",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {"nvim": "nvim-win64/bin/nvim.exe"},
+	"type": "zip",
+	"summary": "Vim-fork focused on extensibility and usability"
+}
