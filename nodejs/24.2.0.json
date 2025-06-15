@@ -1,0 +1,15 @@
+{
+	"name": "nodejs",
+	"version": "24.2.0",
+	"url": "https://nodejs.org/dist/v24.2.0/node-v24.2.0-win-x64.zip",
+	"sum": "sha256:9427c71b19d05f1905f151f1e67fcd535a4f671d66358dbf5b934a49c371e500",
+	"homepage": "https://nodejs.org",
+	"maintainer": {"name": "juanvel400"},
+	"summary": "Open-Source JavaScript runtime environment",
+	"endpoints": {
+		"npm": "npm.cmd",
+		"npx": "npx.cmd",
+		"node": "node.exe"
+	},
+	"type": "zip"
+}
