@@ -3,6 +3,7 @@
 	"maintainer": "juanvel400",
 	"description": "The main ice cream for spoon",
 	"packages": {
-		"python": ["3.13.5"]
+		"python": ["3.13.5"],
+		"wget": ["1.21.4"]
 	}
 }

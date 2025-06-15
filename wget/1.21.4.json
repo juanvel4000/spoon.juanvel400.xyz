@@ -1,0 +1,11 @@
+{
+	"name": "wget",
+	"version": "1.21.4",
+	"url": "https://eternallybored.org/misc/wget/releases/wget-1.21.4-win64.zip",
+	"sum": "sha256:7b0addf04edd370307aa6005f0c08a171a319cccd4403663daca5478860b3056",
+	"homepage": "https://eternallybored.org/misc/wget/",
+	"maintainer": { "name": "juanvel400" },
+	"endpoints": { "wget": "wget.exe" },
+	"type": "zip",
+	"summary": "A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols."
+}
