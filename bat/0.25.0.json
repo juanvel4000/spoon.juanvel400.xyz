@@ -1,0 +1,11 @@
+{
+	"name": "bat",
+	"summary": "a cat fork with wings",
+	"homepage": "https://github.com/sharkdp/bat",
+	"url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-pc-windows-msvc.zip",
+	"sum": "sha256:1d5ced071ba9c765e16f4065877c178cefcfd2fe9581e9ddc92af265b73991bd",
+	"type": "zip",
+	"version": "0.25.0",
+	"endpoints": {"bat": "bat-v0.25.0-x86_64-pc-windows-msvc/bat.exe"},
+	"maintainer": {"name": "juanvel400"}
+}
