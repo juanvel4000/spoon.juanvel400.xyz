@@ -1,0 +1,11 @@
+{	
+	"name": "fzf",
+	"version": "0.62.0",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {"fzf": "fzf.exe"},
+	"type": "zip",
+	"url": "https://github.com/junegunn/fzf/releases/download/v0.62.0/fzf-0.62.0-windows_amd64.zip",
+	"sum": "sha256:dac80c9d652c34f0ccd5d7c1c7b0e3ac9aa2e26c86d0a98b206ce5126f8a9774",
+	"summary": "command-line fuzzy finder",
+	"homepage": "https://github.com/junegunn/fzf"
+}
