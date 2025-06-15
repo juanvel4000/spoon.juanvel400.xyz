@@ -1,0 +1,11 @@
+{
+	"name": "7zr",
+	"version": "24.09",
+	"url": "https://www.7-zip.org/a/7zr.exe",
+	"sum": "sha256:",
+	"homepage": "https://www.7-zip.org",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {"7zr": "7zr.exe"},
+	"type": "exe-static",
+	"summary": "7-Zip console executable"
+}

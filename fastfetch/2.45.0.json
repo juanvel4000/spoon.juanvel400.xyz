@@ -1,0 +1,13 @@
+{
+	"name": "fastfetch",
+	"version": "2.45.0",
+	"url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.45.0/fastfetch-windows-amd64.zip",
+	"sum": "sha256:ad7562fa97e0e6fea0e45dfcb577b4daaf7b41467992e9599f4a007cc255b3c4",
+	"homepage": "https://github.com/fastfetch-cli/fastfetch",
+	"maintainer": {"name": "juanvel400"},
+	"endpoints": {
+		"fastfetch": "fastfetch.exe"
+	},
+	"type": "zip",
+	"summary": "system information tool"
+}

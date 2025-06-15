@@ -4,6 +4,9 @@
 	"description": "The main ice cream for spoon",
 	"packages": {
 		"python": ["3.13.5"],
-		"wget": ["1.21.4"]
+		"wget": ["1.21.4"],
+		"nasm": ["1.26"],
+		"fastfetch": ["2.45.0"],
+		"7zr": ["24.09"]
 	}
 }

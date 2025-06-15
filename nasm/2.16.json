@@ -1,0 +1,11 @@
+{
+	"name": "nasm",
+	"version": "2.16",
+	"url": "https://www.nasm.us/pub/nasm/releasebuilds/2.16/win64/nasm-2.16-win64.zip",
+	"sum": "sha256:b50871c27e2db1492bd2464871992c3c09b54d171264e4cda3e32342ab3df785",
+	"homepage": "https://www.nasm.us",
+	"maintainer": { "name": "juanvel400" },
+	"endpoints": { "nasm": "nasm-2.16/nasm.exe" },
+	"type": "zip",
+	"summary": "netwide assembler, a x86 assembler designed for portability and modularity"
+}
